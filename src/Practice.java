@@ -1,7 +1,14 @@
+import java.util.Scanner;
+
 public class Practice {
-    public static void main() {
-//        System.out.println("sum of 1 and 2 = " + (1 + 2));
-        String s = "5";
-        System.out.println(1 + 10 + s + 1 + 10);
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a value :");
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        int c = sc.nextInt();
+
+        double d = (double) (a + b + c);
+        System.out.println(d);
     }
 }
