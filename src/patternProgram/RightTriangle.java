@@ -1,17 +1,13 @@
-package loopsQuestion;
+package patternProgram;
 
-public class NestedLoop {
-
+public class RightTriangle {
     public static void main(String[] args) {
-        int n = 8;
-// outer loop  - number of rows
+        int n = 6;
         for (int i = 1; i <= n; i++) {
-// inner loop  - number of colums
-            for (int j = 1; j <= n; j++) {
+            for (int j = 1; j <= i; j++) {
                 System.out.print("* ");
             }
             System.out.println();
         }
     }
-
 }

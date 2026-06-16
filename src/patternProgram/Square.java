@@ -1,7 +1,6 @@
-package loopsQuestion;
+package patternProgram;
 
-public class NestedLoop {
-
+public class Square {
     public static void main(String[] args) {
         int n = 8;
 // outer loop  - number of rows
@@ -13,5 +12,4 @@ public class NestedLoop {
             System.out.println();
         }
     }
-
 }
