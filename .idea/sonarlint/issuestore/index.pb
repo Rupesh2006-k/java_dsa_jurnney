@@ -17,3 +17,7 @@ c
 src/arrays/CountSubArr.javaD7\e\7e1d99ad862bfa8a841de71b33d7fdfff40e597ac97e40c248bd495c1f93ef45
 c
 src/arrays/MovesZeroes.javaDe\0\e074e416edbc6da771637c4ebd9cf4bd139fd72f523ecfb7073e68303b3300d0
+h
+ src/algorithms/LinearSearch.javaD6\7\677a8dce90c45bcd2d6381f0bc659e3b793807e18eec9147cd95caa73291ee5d
+h
+ src/algorithms/BinarySearch.javaD6\2\62ce51ece0592aac3166fa1a14a0719fd9e7a231b1966cf5353e3b86c67ce7a3
