@@ -17,7 +17,7 @@ public class InsertionSort {
 
     public static void insertionSort(int[] arr) {
 
-        // Get the length of the array
+        // Get  the length of the array
         int n = arr.length;
 
         // Start from the second element because
