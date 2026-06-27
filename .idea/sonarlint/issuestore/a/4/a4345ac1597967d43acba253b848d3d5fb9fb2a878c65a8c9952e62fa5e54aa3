@@ -1,0 +1,11 @@
+
+V
+java:S1226"@Introduce a new variable instead of reusing the parameter "arr".(ëªê±
+E	java:S106
+"+Replace this use of System.out by a logger.(üÈù½úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(×Æáî
+E	java:S106"+Replace this use of System.out by a logger.(ï™ãØüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(×Æáî
+Q	java:S125"<This block of commented-out lines of code should be removed.(š×Ÿ‡
+E	java:S106"+Replace this use of System.out by a logger.(¬öÆñùÿÿÿÿ
+@	java:S106 "+Replace this use of System.out by a logger.(×Æáî
