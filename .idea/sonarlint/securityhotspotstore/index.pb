@@ -35,3 +35,5 @@ f
 src/JaggedArray.javaD4\4\44fd8ecd1d98cb50911dc54c98dfca26ee5223431f92d4fac8a2dc9bc63d3070
 g
 src/arrays/TransposeMatrix.javaD5\6\56f50932c86b81b78324c2e6bb8665cf61741e1db50e62366344ff9d1ed587a5
+c
+src/arrays/RotateImage.javaDc\8\c86274cd196e9e1203441c58dc4590c6f412621627ed010e4fa97bb78f0f9f6b
